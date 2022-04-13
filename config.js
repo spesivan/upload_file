@@ -7,9 +7,9 @@ const network = NETWORK.eth;
 // NFT iÇERİKLERİNİ BURAYA YAZ ///////////////////////////////////////////////////////////////////////////
 const namePrefix = "NFT iSMi";
 const description = "Aciklama kismini yaz";
-const baseUri = "C:/Users/spes/Desktop/nft/pelikan_kod_2/build/images";
-const external_link_name = "https://www.instagram.com/eflahi/";
-const collectionName = "RitualWar";
+const baseUri = "C:/Users/spes/Desktop/resimlerin dosyası"; //// burayı sakın unutma ve dosya yolundaki işaretler / olmalı eğer \ olursa hata alırsınız
+const external_link_name = "herhangi bir site linki";
+const collectionName = "Koleksiyon adı";
 
 const solanaMetadata = {
   symbol: "YC",
