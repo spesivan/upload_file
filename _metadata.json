@@ -1,0 +1,217 @@
+{
+  "nft": [
+    {
+      "file_path": "ipfs://NewUriToReplace/1.png",
+      "nft_name": "NFT #1",
+      "external_link": "https://www.google.com/",
+      "description": "Remember to replace this description",
+      "collection": "CollectionName",
+      "properties": [
+        {
+          "type": "accessory",
+          "name": "acce (34)"
+        },
+        {
+          "type": "background",
+          "name": "bg (13)"
+        },
+        {
+          "type": "beard",
+          "name": "beard (3)"
+        },
+        {
+          "type": "eye",
+          "name": "e (47)"
+        },
+        {
+          "type": "glasses",
+          "name": "g (26)"
+        },
+        {
+          "type": "hair",
+          "name": "hair (8)"
+        },
+        {
+          "type": "hat",
+          "name": "hat (5)"
+        },
+        {
+          "type": "necklace",
+          "name": "n (11)"
+        },
+        {
+          "type": "rhino",
+          "name": "r (56)"
+        },
+        {
+          "type": "tooth",
+          "name": "t (3)"
+        },
+        {
+          "type": "whiskers",
+          "name": "w (6)"
+        }
+      ],
+      "levels": [],
+      "stats": [],
+      "unlockable_content": [],
+      "explicit_and_sensitive_content": false,
+      "supply": 1,
+      "blockchain": "",
+      "sale_type": "Fixed Price",
+      "price": 0.0075,
+      "method": [],
+      "duration": [
+        "6 month"
+      ],
+      "specific_buyer": [],
+      "quantity": 1,
+      "dna": "bd8de6311e64e83f5f2de2f147b8e3635d95c847",
+      "edition": 1,
+      "date": 1655578604474,
+      "compiler": "Spes"
+    },
+    {
+      "file_path": "ipfs://NewUriToReplace/2.png",
+      "nft_name": "NFT #2",
+      "external_link": "https://www.google.com/",
+      "description": "Remember to replace this description",
+      "collection": "CollectionName",
+      "properties": [
+        {
+          "type": "accessory",
+          "name": "acce (27)"
+        },
+        {
+          "type": "background",
+          "name": "bg (47)"
+        },
+        {
+          "type": "beard",
+          "name": "beard (4)"
+        },
+        {
+          "type": "eye",
+          "name": "e (12)"
+        },
+        {
+          "type": "glasses",
+          "name": "g (19)"
+        },
+        {
+          "type": "hair",
+          "name": "hair (4)"
+        },
+        {
+          "type": "hat",
+          "name": "hat (2)"
+        },
+        {
+          "type": "necklace",
+          "name": "n (5)"
+        },
+        {
+          "type": "rhino",
+          "name": "r (96)"
+        },
+        {
+          "type": "tooth",
+          "name": "t (2)"
+        },
+        {
+          "type": "whiskers",
+          "name": "w (3)"
+        }
+      ],
+      "levels": [],
+      "stats": [],
+      "unlockable_content": [],
+      "explicit_and_sensitive_content": false,
+      "supply": 1,
+      "blockchain": "",
+      "sale_type": "Fixed Price",
+      "price": 0.0075,
+      "method": [],
+      "duration": [
+        "6 month"
+      ],
+      "specific_buyer": [],
+      "quantity": 1,
+      "dna": "290ffc9cf1190971f40f8c0979a1e4ca915a9a8f",
+      "edition": 2,
+      "date": 1655578606027,
+      "compiler": "Spes"
+    },
+    {
+      "file_path": "ipfs://NewUriToReplace/3.png",
+      "nft_name": "NFT #3",
+      "external_link": "https://www.google.com/",
+      "description": "Remember to replace this description",
+      "collection": "CollectionName",
+      "properties": [
+        {
+          "type": "accessory",
+          "name": "acce (27)"
+        },
+        {
+          "type": "background",
+          "name": "bg (14)"
+        },
+        {
+          "type": "beard",
+          "name": "beard (3)"
+        },
+        {
+          "type": "eye",
+          "name": "e (34)"
+        },
+        {
+          "type": "glasses",
+          "name": "g (26)"
+        },
+        {
+          "type": "hair",
+          "name": "hair (5)"
+        },
+        {
+          "type": "hat",
+          "name": "hat (43)"
+        },
+        {
+          "type": "necklace",
+          "name": "n (3)"
+        },
+        {
+          "type": "rhino",
+          "name": "r (42)"
+        },
+        {
+          "type": "tooth",
+          "name": "t (18)"
+        },
+        {
+          "type": "whiskers",
+          "name": "w (5)"
+        }
+      ],
+      "levels": [],
+      "stats": [],
+      "unlockable_content": [],
+      "explicit_and_sensitive_content": false,
+      "supply": 1,
+      "blockchain": "",
+      "sale_type": "Fixed Price",
+      "price": 0.0075,
+      "method": [],
+      "duration": [
+        "6 month"
+      ],
+      "specific_buyer": [],
+      "quantity": 1,
+      "dna": "1b6880f22723cf62952fbe724ee012374f2c45b9",
+      "edition": 3,
+      "date": 1655578606996,
+      "compiler": "Spes"
+    }
+  ]
+}
